@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/ic_baseline_dashboard_24"
+        android:title="Dasboard"></item>
+    <item
+        android:id="@+id/activity"
+        android:icon="@drawable/ic_baseline_school_24"
+        android:title="Activity"></item>
+    <item
+        android:id="@+id/liveMoment"
+        android:icon="@drawable/ic_baseline_photo_camera_24"
+        android:title="Live Moment"></item>
+    <item
+        android:id="@+id/payment"
+        android:icon="@drawable/ic_baseline_credit_card_24"
+        android:title="Payment"></item>
+    <item
+        android:id="@+id/community"
+        android:icon="@drawable/ic_baseline_public_24"
+        android:title="Community"></item>
+</menu>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "781084017847",
+    "firebase_url": "https://boonda-monitoring-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "boonda-monitoring",
+    "storage_bucket": "boonda-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781084017847:android:eabe002bf811a58095f932",
+        "android_client_info": {
+          "package_name": "com.example.boondamonitoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781084017847-p8qhp7c8n3862q1teh3ldnc5m79pe28p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbACHC3epK2cUkkASVbcT8_tjbNekY44c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781084017847-p8qhp7c8n3862q1teh3ldnc5m79pe28p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/side_navigation"
+    app:startDestination="@id/activity2">
+
+    <fragment
+        android:id="@+id/dasboard"
+        android:name="com.example.boondamonitoring.Dasboard"
+        android:label="fragment_dasboard"
+        tools:layout="@layout/fragment_dasboard" />
+    <fragment
+        android:id="@+id/liveMoment3"
+        android:name="com.example.boondamonitoring.LiveMoment"
+        android:label="fragment_live_moment"
+        tools:layout="@layout/fragment_live_moment" />
+    <fragment
+        android:id="@+id/payment3"
+        android:name="com.example.boondamonitoring.Payment"
+        android:label="fragment_payment"
+        tools:layout="@layout/fragment_payment" />
+    <fragment
+        android:id="@+id/community2"
+        android:name="com.example.boondamonitoring.Community"
+        android:label="fragment_community"
+        tools:layout="@layout/fragment_community" />
+    <fragment
+        android:id="@+id/activity2"
+        android:name="com.example.boondamonitoring.Activity"
+        android:label="fragment_activity"
+        tools:layout="@layout/fragment_activity" />
+</navigation>

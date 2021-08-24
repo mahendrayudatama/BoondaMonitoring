@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Home"></item>
+    <item
+        android:id="@+id/second"
+        android:icon="@drawable/ic_baseline_article_24"
+        android:title="Discussion"></item>
+    <item
+        android:id="@+id/third"
+        android:icon="@drawable/ic_baseline_layers_24"
+        android:title="DayCare"></item>
+    <item
+        android:id="@+id/fourth"
+        android:icon="@drawable/ic_baseline_stroller_24"
+        android:title="Growth"></item>
+    <item
+        android:id="@+id/fifth"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Account"></item>
+</menu>
